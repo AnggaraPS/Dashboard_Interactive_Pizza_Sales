@@ -3,7 +3,7 @@
 This repository contains a data visualization dashboard analyzing pizza sales performance over time using Excel. The dashboard provides insights into revenue, order trends, product category performance, and best-selling items.
 
 🔗 **Dashboard Screenshot:**
-![Dashboard-Pizza-Sales](Dashboard-pizza-sales.png)
+![Dashboard Pizza Sales](Dashboard-Pizza-Sales.png)
 
 ---
 
