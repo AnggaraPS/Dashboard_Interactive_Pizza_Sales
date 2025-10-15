@@ -96,10 +96,7 @@ This project was built to practice dashboard design, slicer interactivity, and b
 ## 🙋‍♂️ Author
 
 **Anggara Prima Sektiaji**  
-📧 [YourEmail@example.com]  
+📧 [anggaraprima011002@gmail.com]  
 🔗 [LinkedIn Profile](https://linkedin.com/in/anggara-prima-sektiaji)  
 🔗 [Tableau Public Portfolio](https://public.tableau.com/app/profile/anggara.prima.sektiaji)
 
----
-
-## ⭐ Feel free to fork or star this project if you found it useful!
